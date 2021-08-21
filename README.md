@@ -17,12 +17,14 @@ This analysis focuses specifically on Theater Outcomes by Launch Date and Outcom
 ### Analysis of Outcomes Based on Launch Date
 
 This analysis focuses on the Parent Category, Theater, and gives us a view into how campaigns perform (Successful, Failed, Canceled) over the calander months. 
-![Theater_Outcomes_vs_Launch](C:\Users\ezdeu\Desktop\Analysis Projects\Crowdfunding Analysis\Resources)
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88510296/130328417-f0f2a520-7b74-4cc0-9b88-3b309fd2b853.png)
 
 ### Analysis of Outcomes Based on Goals
 
 This analysis focuses on the Subcategory, Plays, and shows the Outcomes of the campaigns segmented by monetary goal size.
-![Outcomes_vs_Goals](C:\Users\ezdeu\Desktop\Analysis Projects\Crowdfunding Analysis\Resources)
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88510296/130328422-8547a7a9-10f7-4375-8326-bc7e539d1a67.png)
 
 ### Challenges and Difficulties Encountered
 
